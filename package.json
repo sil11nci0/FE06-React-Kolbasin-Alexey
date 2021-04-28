@@ -1,0 +1,22 @@
+{
+  "name": "fe06-react-kolbasin-alexey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sil11nci0/FE06-React-Kolbasin-Alexey.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sil11nci0/FE06-React-Kolbasin-Alexey/issues"
+  },
+  "homepage": "https://github.com/sil11nci0/FE06-React-Kolbasin-Alexey#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
